@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @MaryamFatima66
-- 👀 I’m interested in web development, WordPress development, and Flutter development
-- 🌱 I’m currently honing my skills in Flutter and exploring advanced WordPress customization
-- 💞️ I’m looking to collaborate on web development projects, mobile apps using Flutter, and custom WordPress themes and plugins
-- 📫 How to reach me: [www.linkedin.com/in/maryam-fatima-20b3bb276](linkedIn)
+👋 Hi there! I'm Maryam Fatima
 
-<!---
-MaryamFatima66/MaryamFatima66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Web Developer | Flutter Enthusiast | WordPress Customizer
+
+🚀 About Me
+
+🌱 Currently sharpening my skills in Flutter and exploring advanced WordPress customization
+
+💡 Passionate about creating modern web and mobile experiences
+
+🤝 Open to collaborating on Flutter apps, WordPress themes/plugins, and web projects
+
+🛠️ Tech Stack
+<p align="left"> <img src="https://skillicons.dev/icons?i=flutter,wordpress,html,css,js,python,github,vscode,figma&perline=5" /> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MaryamFatima66&show_icons=true&theme=tokyonight" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaryamFatima66&theme=tokyonight" height="150"/> </p>
+🌐 Connect With Me
+
+📫 Let’s connect!
