@@ -16,14 +16,18 @@ I’m a passionate **Front-End Developer** focused on crafting **responsive**, *
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks:**  
-HTML • CSS • JavaScript • Flutter  
+#### 💻 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,dart,flutter&perline=7" />
+</p>
 
-**Tools & Platforms:**  
-Git • VS Code • Figma • Firebase  
+#### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,firebase,sqlite,wordpress&perline=6" />
+</p>
 
 **Additional Expertise:**  
-UI/UX Design • Prompt Engineering • AI Integration • Agile/SDLC • API Development • Debugging  
+UI/UX Design • Prompt Engineering • AI Integration • Agile/SDLC • API Development • Debugging
 
 ---
 
@@ -78,7 +82,7 @@ UI/UX Design • Prompt Engineering • AI Integration • Agile/SDLC • API De
 
 - 🧠 **Web Development Course** – JDC Foundation (2024)  
 - 🤖 **Google Prompting Essentials** – Google (2025)  
-- 🪄 **Google AI Essentials** – Google (2025)  
+- 🤖 **Google AI Essentials** – Google (2025)  
 - 🧩 **Pakistan Engineering Organization (PEO)** – Future-Proof Tech Skills, Founder’s Mindset, Cognitive Psychology  
 
 ---
