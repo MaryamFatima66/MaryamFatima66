@@ -68,7 +68,7 @@ UI/UX Design • Prompt Engineering • AI Integration • Agile/SDLC • API De
 
 | Project | Stack | Description |
 |----------|--------|-------------|
-| 🌍 **World News Hub** | Flask, HTML, CSS, JS, NewsAPI | Real-time news platform with smart search, “Read Later” bookmarks, and PDF export. Fully responsive for tech readers. |
+| 🌍 [**World News Hub**](https://github.com/MaryamFatima66/world-news-hub) | Flask, HTML, CSS, JS, NewsAPI | Real-time news platform with smart search, “Read Later” bookmarks, and PDF export. Fully responsive for tech readers. |
 | 👁️ **Vision Assistant** | Python, Flask, OpenCV, OCR, TTS | AI-powered tool for visually impaired users — reads text, detects objects, and describes scenes with audio feedback. WCAG-accessible (90%+ OCR accuracy). |
 | 🎬 **Movie Finder App** | Flask, OMDb API, HTML/CSS | Search and view detailed movie info using live API data. Academic-level functional app. |
 | 🛍️ **E-Commerce Website** | HTML, CSS, JS | Dynamic product listings, responsive cart, and mobile-first layout. |
