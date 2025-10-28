@@ -1,90 +1,89 @@
-✨ Front-End Developer | Web & Mobile Enthusiast
-<h3 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&pause=1000&color=3AB795&center=true&vCenter=true&width=700&lines=Hi+there!+👋;I'm+Maryam+Fatima;Front-End+Developer+%7C+Flutter+Enthusiast+%7C+Web+Creator" alt="Typing SVG" /> </h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=MaryamFatima66&label=Profile+Views&color=3AB795&style=flat-square" alt="profile views" /> </p>
-🧩 About Me
+🌸 Maryam Fatima
+Front-End Developer | Web & Mobile Enthusiast
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3AB795&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Maryam+Fatima;Front-End+Developer;Flutter+and+Web+App+Creator;AI+and+UI%2FUX+Learner" alt="Typing SVG"> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=MaryamFatima66&label=Profile+Views&color=3AB795&style=flat-square" alt="profile views" /> </p>
+👩‍💻 About Me
 
-I’m a passionate Front-End Developer with hands-on experience crafting responsive, accessible, and high-performance web and mobile interfaces using HTML, CSS, JavaScript, and Flutter.
+I’m a passionate Front-End Developer focused on crafting responsive, accessible, and high-performance web and mobile interfaces using HTML, CSS, JavaScript, and Flutter.
 
-💼 Beyond my internships at Hamdard Systems Department and DeveloperHub Corporation, I’ve completed 11+ global virtual programs with top companies like Walmart, Goldman Sachs, and Accenture, gaining exposure to real-world engineering challenges and industry practices.
+💼 I’ve interned at Hamdard Systems Department and DeveloperHub Corporation, and completed 11+ global virtual programs with Walmart, Goldman Sachs, and Accenture, gaining exposure to real-world engineering challenges.
 
-🎯 I build full-stack and AI-powered applications focused on usability, accessibility, and impact — integrating APIs, debugging complex interfaces, and designing meaningful user experiences.
+🎯 I love building applications that combine usability, creativity, and technology — turning complex problems into delightful digital experiences.
 
-🛠️ Technical Skills
+🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,dart,flutter,sqlite,wordpress,git,github,figma&perline=6" /> </p>
 
-Other Skills:
-UI/UX Design • Prompt Engineering • AI Essentials • Agile / SDLC • Debugging • API Integration
+Additional Expertise:
+UI/UX Design • Prompt Engineering • AI Integration • Agile/SDLC • API Development • Debugging
 
-💻 Internships
+💼 Experience
+💻 Front-End Developer Intern – DeveloperHub Corporation
 
-Front-End Developer Intern – DeveloperHub Corporation
-📅 July 2025 – September 2025
+📆 July 2025 – September 2025
 
-Developed mobile-first responsive web pages using HTML/CSS and Flutter
+Built mobile-first, responsive layouts using HTML, CSS, and Flutter
 
-Optimized UI load time and cross-browser performance
+Enhanced UI load time & accessibility
 
-Collaborated in sprints, code reviews, and UI/UX sessions
-View Certificate
+Collaborated with design and backend teams during Agile sprints
 
-Front-End Intern – Hamdard University (Systems Department)
-📅 October 2023 – December 2023
+🏫 Front-End Intern – Hamdard University, Systems Department
 
-Built modular UI components for university portals
+📆 October 2023 – December 2023
 
-Improved browser compatibility using modern CSS
+Created modular UI components for internal portals
 
-Fixed 15+ UI bugs through testing and feedback
-View Certificate
+Improved browser compatibility & performance
+
+Resolved 15+ usability issues through testing
 
 🌍 Virtual Experience Programs
-Organization	Program	Key Skills
+Company	Program	Key Skills
 🏢 Walmart Global Tech	Advanced Software Engineering	Data Structures, DB Design, Software Architecture
-⚙️ Lyft	Back-End Engineering	TDD, Refactoring, Unit Testing
+⚙️ Lyft	Back-End Engineering	Refactoring, Unit Testing, TDD
 🎨 BP	Digital Design & UX	Wireframing, Prototyping, User Research
-💻 Accenture	Developer & Technology	Agile SDLC, Debugging, STLC
-📊 Goldman Sachs	Excel Skills for Business	Data Analysis, P&L Modeling
-✈️ Skyscanner	Front-End Engineering	React.js, Responsive Design
-🔧 Datacom	Software Development	Code Review, Bug Fixing
-🏦 Wells Fargo	Software Engineering	Database Implementation
-🔐 Deloitte	Technology Virtual Program	Cybersecurity, Data Analysis
-🎯 Product Design Simulation	Product Design	Design Rationale, UX Principles
+💻 Accenture	Developer & Technology	Agile SDLC, Debugging, Algorithmic Thinking
+📊 Goldman Sachs	Excel Skills for Business	Forecasting, Dashboards
+✈️ Skyscanner	Front-End Simulation	React.js, Responsive Web Apps
+🔧 Datacom	Software Development	Bug Fixing, Code Review
+🏦 Wells Fargo	Software Engineering	Data Modeling, Database Design
+🔐 Deloitte	Technology Program	Cybersecurity, Data Analysis
+🎯 Product Design Simulation	UX/UI Design	Design Rationale, User-Centered Thinking
 
-View All Certificates
-
-🚀 Highlighted Projects
-🌍 World News Hub – Real-Time Global News Platform
+🚀 Projects Showcase
+🌍 World News Hub
 
 🛠️ Flask, HTML, CSS, JS, NewsAPI
-Responsive Flask app featuring live headlines, search filters, bookmarks, PDF export, and animations.
-✅ Mobile-friendly UI for developers & bloggers.
+Real-time news platform with smart search, “Read Later” bookmarks, and PDF export.
+Responsive design for developers and tech readers.
 
-👁️ Vision Assistant – AI Tool for Visually Impaired Users
+👁️ Vision Assistant
 
-🧠 Flask, Python, OpenCV, OCR, TTS, BLIP, DETR
-AI-powered app that describes scenes, reads text aloud, and detects objects with 90%+ OCR accuracy.
-🎧 Designed for accessibility with voice feedback & WCAG compliance.
+🧠 Python, Flask, OpenCV, OCR, TTS
+AI-powered tool for visually impaired users — reads text, detects objects, and describes scenes with audio feedback.
+✅ WCAG-accessible with 90%+ OCR accuracy.
 
-🎬 Movie Finder Web App
+🎬 Movie Finder App
 
-🔧 Flask, OMDb API, HTML, CSS
-Search movies, display details, and explore dynamic RESTful API integration.
+🔧 Flask, OMDb API, HTML/CSS
+Search and view detailed movie info using live API data.
+Simple, functional, academic project.
 
-🧮 Interactive Web Calculator
+🧮 Web Calculator
 
 💡 HTML, CSS, JS
-Lightweight, responsive calculator with real-time operations and modular JavaScript.
+Interactive calculator with real-time arithmetic and modular JS architecture.
 
 🛍️ E-Commerce Website
 
-🧰 HTML, CSS, JavaScript
-Modern, responsive online store featuring shopping cart persistence and dynamic product listings.
+🧰 HTML, CSS, JS
+Dynamic product listings, responsive cart, and mobile-first layout.
 
-🧭 Animated Landing Page
+✨ Animated Landing Page
 
-🌈 HTML, CSS, JavaScript
-Visually rich landing page with animated backgrounds, smooth scroll, and interactive UI.
+🌈 HTML, CSS, JS
+Smooth scrolling, animated backgrounds, and responsive, modern layout.
 
-🎓 Certifications & Courses
+🎓 Certifications
 
 🧠 Web Development Course – JDC Foundation (2024)
 
@@ -94,22 +93,11 @@ Visually rich landing page with animated backgrounds, smooth scroll, and interac
 
 🧩 Pakistan Engineering Organization (PEO) – Future-Proof Tech Skills, Founder’s Mindset, Cognitive Psychology
 
-View Certificates
-
-🤝 Let’s Connect
-
-📧 Email: maryamfatima67766@gmail.com
-
-💼 LinkedIn: linkedin.com/in/maryam-fatima-20b3bb276
-
-💻 GitHub: github.com/MaryamFatima66
-
-📄 Download CV
-
 📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MaryamFatima66&show_icons=true&theme=vue-dark&hide_border=true" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaryamFatima66&theme=vue-dark&hide_border=true" height="150"/> </p>
-🌱 Quote I Live By
-
-“Great design is born of two things: simplicity and clarity.” — Lindon Leader
-
-🌸 Thank you for visiting my profile! 🌸
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MaryamFatima66&show_icons=true&theme=tokyonight&hide_border=true" height="150" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaryamFatima66&theme=tokyonight&hide_border=true" height="150" /> </p>
+💬 Let’s Connect
+<p align="center"> <a href="mailto:maryamfatima67766@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/maryam-fatima-20b3bb276"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/MaryamFatima66"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+💭 "Great design is born of two things: simplicity and clarity."
+<p align="right">— Lindon Leader</p>
+🪶 Footer
+<p align="center">🌿 Built with ❤️ by <b>Maryam Fatima</b></p>
