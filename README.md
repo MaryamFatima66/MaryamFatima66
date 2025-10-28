@@ -93,11 +93,9 @@ Smooth scrolling, animated backgrounds, and responsive, modern layout.
 
 🧩 Pakistan Engineering Organization (PEO) – Future-Proof Tech Skills, Founder’s Mindset, Cognitive Psychology
 
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MaryamFatima66&show_icons=true&theme=tokyonight&hide_border=true" height="150" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaryamFatima66&theme=tokyonight&hide_border=true" height="150" /> </p>
 💬 Let’s Connect
 <p align="center"> <a href="mailto:maryamfatima67766@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/maryam-fatima-20b3bb276"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/MaryamFatima66"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
 💭 "Great design is born of two things: simplicity and clarity."
 <p align="right">— Lindon Leader</p>
-🪶 Footer
+
 <p align="center">🌿 Built with ❤️ by <b>Maryam Fatima</b></p>
